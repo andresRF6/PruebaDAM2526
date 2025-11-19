@@ -18,6 +18,7 @@ public class ArraysExample1 {
 
         for (int numero : numeros) {
             System.out.println("Numero en array:"+numero);
+            System.out.println("FIN");
         }
         
         
